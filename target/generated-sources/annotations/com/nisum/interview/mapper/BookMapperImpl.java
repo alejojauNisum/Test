@@ -1,14 +1,14 @@
-package com.example.demo.mapper;
+package com.nisum.interview.mapper;
 
-import com.example.demo.dto.BookDto;
-import com.example.demo.model.Book;
+import com.nisum.interview.dto.BookDto;
+import com.nisum.interview.model.Book;
 import java.util.ArrayList;
 import java.util.List;
 import javax.annotation.processing.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2024-04-04T17:06:49-0500",
+    date = "2024-04-10T10:22:54-0500",
     comments = "version: 1.6.0.Beta1, compiler: javac, environment: Java 17.0.10 (Oracle Corporation)"
 )
 public class BookMapperImpl implements BookMapper {

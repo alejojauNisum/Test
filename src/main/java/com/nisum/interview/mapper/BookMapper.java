@@ -1,9 +1,8 @@
-package com.example.demo.mapper;
+package com.nisum.interview.mapper;
 
-import com.example.demo.dto.BookDto;
-import com.example.demo.model.Book;
+import com.nisum.interview.dto.BookDto;
+import com.nisum.interview.model.Book;
 import org.mapstruct.Mapper;
-import org.mapstruct.Mapping;
 import org.mapstruct.factory.Mappers;
 
 import java.util.List;

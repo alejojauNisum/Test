@@ -1,4 +1,4 @@
-package com.example.demo.model;
+package com.nisum.interview.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

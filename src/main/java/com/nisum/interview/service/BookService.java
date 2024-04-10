@@ -1,14 +1,6 @@
-package com.example.demo.service;
+package com.nisum.interview.service;
 
-import com.example.demo.dto.BookDto;
-import com.example.demo.entity.BookRepository;
-import com.example.demo.model.Book;
-import com.example.demo.mapper.BookMapper;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
-
-import java.util.List;
-import java.util.stream.Collectors;
+import com.nisum.interview.mapper.BookMapper;
 
 // Todo 4. Complete the notations
 public class BookService {
