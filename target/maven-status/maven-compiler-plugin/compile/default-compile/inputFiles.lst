@@ -1,0 +1,9 @@
+/Users/fabioalejandrojuaregui/Documents/Programs/demo/src/main/java/com/example/demo/controller/BookController.java
+/Users/fabioalejandrojuaregui/Documents/Programs/demo/src/main/java/com/example/demo/model/Book.java
+/Users/fabioalejandrojuaregui/Documents/Programs/demo/src/main/java/com/example/demo/entity/BookRepository.java
+/Users/fabioalejandrojuaregui/Documents/Programs/demo/src/main/java/com/example/demo/entity/CountryRepository.java
+/Users/fabioalejandrojuaregui/Documents/Programs/demo/src/main/java/com/example/demo/mapper/BookMapper.java
+/Users/fabioalejandrojuaregui/Documents/Programs/demo/src/main/java/com/example/demo/model/Country.java
+/Users/fabioalejandrojuaregui/Documents/Programs/demo/src/main/java/com/example/demo/dto/BookDto.java
+/Users/fabioalejandrojuaregui/Documents/Programs/demo/src/main/java/com/example/demo/service/BookService.java
+/Users/fabioalejandrojuaregui/Documents/Programs/demo/src/main/java/com/example/demo/TestApplication.java

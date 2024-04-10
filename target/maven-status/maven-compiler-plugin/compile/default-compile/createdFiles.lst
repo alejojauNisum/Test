@@ -1,0 +1,10 @@
+com/example/demo/model/Country.class
+com/example/demo/mapper/BookMapperImpl.class
+com/example/demo/model/Book.class
+com/example/demo/dto/BookDto.class
+com/example/demo/entity/BookRepository.class
+com/example/demo/controller/BookController.class
+com/example/demo/TestApplication.class
+com/example/demo/service/BookService.class
+com/example/demo/entity/CountryRepository.class
+com/example/demo/mapper/BookMapper.class
